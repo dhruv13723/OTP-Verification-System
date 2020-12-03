@@ -1,4 +1,4 @@
-from twilio.rest import Client
+from twilio.rest import Client #pip install twilio
 from tkinter import *
 from tkinter import messagebox
 import random
